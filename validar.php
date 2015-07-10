@@ -1,5 +1,5 @@
 <?php
-    
+    //Este es un cambio para probar el control de versiones
     $user=$_POST['user'];
     $pass=$_POST['password'];
     if(($user=='admin') && ($pass=='admin')){
